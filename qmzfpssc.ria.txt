@@ -1,0 +1,17 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Project 2 - image-classification/dlnd_image_classification.html
+#	new file:   Project 2 - image-classification/dlnd_image_classification.ipynb
+#	new file:   Project 2 - image-classification/floyd_requirements.txt
+#	new file:   Project 2 - image-classification/helper.py
+#	new file:   Project 2 - image-classification/problem_unittests.py
+#
+# Untracked files:
+#	Project 1 Your first neural network/RA - dlnd-your-first-neural-network.zip
+#
+
